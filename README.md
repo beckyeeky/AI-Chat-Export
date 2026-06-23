@@ -3,7 +3,7 @@
 > 一键导出 Google Gemini 对话为 Markdown / HTML / JSON / Text / PNG 的油猴脚本
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/YunAsimov/AI-Chat-Export)
+[![Version](https://img.shields.io/badge/version-3.0.0-blue.svg)](https://github.com/beckyeeky/AI-Chat-Export)
 
 一个 Tampermonkey 用户脚本，用于将 Google Gemini 网页端对话一键导出为结构化、干净的 Markdown（及其他格式），自动处理：
 
@@ -35,11 +35,11 @@
 
 点击下方链接，脚本管理器会自动弹出安装提示：
 
-→ [安装脚本](https://raw.githubusercontent.com/YunAsimov/AI-Chat-Export/main/gemini-chat-copier.user.js)
+→ [安装脚本](https://raw.githubusercontent.com/beckyeeky/AI-Chat-Export/main/gemini-chat-copier.user.js)
 
 **方式 B — 手动安装**
 
-1. 打开仓库文件 [`gemini-chat-copier.user.js`](https://github.com/YunAsimov/AI-Chat-Export/blob/main/gemini-chat-copier.user.js)
+1. 打开仓库文件 [`gemini-chat-copier.user.js`](https://github.com/beckyeeky/AI-Chat-Export/blob/main/gemini-chat-copier.user.js)
 2. 全选复制内容
 3. 在脚本管理器中新建脚本并粘贴保存
 
@@ -246,7 +246,7 @@ def quicksort(arr):
 克隆仓库：
 
 ```bash
-git clone https://github.com/YunAsimov/AI-Chat-Export.git
+git clone https://github.com/beckyeeky/AI-Chat-Export.git
 ```
 
 修改 `gemini-chat-copier.user.js` 后，在脚本管理器中重新载入即可。纯前端脚本，不需要构建工具。

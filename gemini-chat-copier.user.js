@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gemini Chat Copier - 一键复制对话
 // @name:zh-CN   Gemini 对话一键复制助手
-// @namespace    https://github.com/YunAsimov/AI-Chat-Export
+// @namespace    https://github.com/beckyeeky/AI-Chat-Export
 // @version      3.0.0
 // @author       AI-Chat-Export
 // @description  Export Gemini conversations as Markdown/HTML/JSON/TXT/PNG. Auto-scroll, LaTeX, code blocks, tables, settings, preview.
